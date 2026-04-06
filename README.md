@@ -1,14 +1,8 @@
 # 🔥 Mathstick
 
-A modern reimagining of the classic matchstick puzzle game — built for puzzle lovers.
+**Mathstick** is a free web-based matchstick puzzle game built by Derek Liu, creator of Trangram, for all puzzle lovers.
 
----
-
-## 🎮 About
-
-**Mathstick** is a free web-based puzzle game inspired by the original concept created by Derek Liu (creator of *Trangram*).
-
-This version expands on the original idea with a **powerful puzzle maker**, allowing players not just to solve puzzles — but to create and share their own.
+The latest version comes with a **powerful Puzzle Maker**, letting players not only solve challenging puzzles but also design and share their own.
 
 All illustration assets in this game are crafted using [Trangram](https://www.trangram.com/).
 
