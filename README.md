@@ -4,7 +4,13 @@
 
 The latest version comes with a **powerful Puzzle Maker**, letting players not only solve challenging puzzles but also design and share their own.
 
-All illustration assets in this game are crafted using [Trangram](https://www.trangram.com/).
+All image assets in this game are crafted using [Trangram](https://www.trangram.com/).
+
+---
+
+## 🌐 Live Demo
+
+👉 [Play Mathstick](https://mathstick.github.io)
 
 ---
 
@@ -33,9 +39,3 @@ All illustration assets in this game are crafted using [Trangram](https://www.tr
 - CSS  
 - JavaScript  
 - Angular  
-
----
-
-## 🌐 Live Demo
-
-👉 [Play Mathstick](https://mathstick.github.io)
